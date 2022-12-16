@@ -1,0 +1,1710 @@
+The Project Gutenberg eBook of Golden rules of medical evidence, by
+Stanley B. Atkinson
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: Golden rules of medical evidence
+       "Golden Rules" Series. No. XVI.
+
+Author: Stanley B. Atkinson
+
+Release Date: December 16, 2022 [eBook #69556]
+
+Language: English
+
+Produced by: Bob Taylor and the Online Distributed Proofreading Team at
+             https://www.pgdp.net (This file was produced from images
+             generously made available by The Internet Archive)
+
+*** START OF THE PROJECT GUTENBERG EBOOK GOLDEN RULES OF MEDICAL
+EVIDENCE ***
+
+
+
+
+
+  Transcriber’s Notes
+  Italic text displayed as: _italic_
+  Bold text displayed as: =bold=
+
+
+
+
+                            GOLDEN RULES
+
+                                 OF
+
+                          MEDICAL EVIDENCE.
+
+                                 BY
+
+                        STANLEY B. ATKINSON,
+                          M.A., M.B., B.Sc.
+
+               _of the Inner Temple, Barrister-at-Law;
+                a Justice of the Peace for the County
+                     of London; Hon. Sec. of the
+                        Medico-Legal Society_
+                             (_London_).
+
+
+                  _“GOLDEN RULES” SERIES. No. XVI._
+
+
+                              Bristol:
+                          JOHN WRIGHT & CO.
+                               London:
+            SIMPKIN, MARSHALL, HAMILTON, KENT & CO., LTD.
+
+
+
+
+                              PREFACE.
+
+
+The science, the art, and the correct estimation of the value of
+Medical Evidence is the province of Forensic Medicine.
+
+It is hoped that this little book will aid the General Practitioner
+when he is called upon to offer medical testimony, so that the
+ancient inquest jury especially may fully appreciate the bearing of
+the technical facts he narrates. Those who pose as “experts,” should
+_ipso facto_ be themselves authorities on the matter and the manner
+of bearing testimony.
+
+        STANLEY B. ATKINSON,
+
+    _10, Adelphi Terrace, W.C._
+
+
+
+
+                               INDEX.
+
+                                                    PAGE
+
+  Alleged drowning, uncertainty concerning,           47
+
+  — overlaying, uncertainty concerning,               47
+
+  — still-birth, uncertainty concerning,              47
+
+
+  Blood-circulation preceding sudden death,           48
+
+
+  Civil actions, the fees in,                         44
+
+  Common witnesses of facts,                           8
+
+  Coroner’s court, constitution of,                    8
+
+  — — the fees in,                                    39
+
+  Criminal proceedings, the fees in,                  41
+
+
+  Dead, the examination of,                           21
+
+  Deglutition and peristalsis preceding sudden death, 48
+
+  Drawing up a medico-legal report,                   24
+
+
+  Evidence, classes of,                                8
+
+  — given before entering court,                      10
+
+  — in court after being sworn,                       30
+
+  — in court before being sworn,                      28
+
+  Examination of the dead,                            21
+
+  — of the living and the dying,                      18
+
+  — of the living, dying, and dead,                   17
+
+  Expert witnesses,                                    9
+
+
+  Fees, the rules as to,                              39
+
+
+  Hearsay testimony, when receivable,                 50
+
+
+  Limitations imposed by inadequacy of knowledge,     46
+
+  Limitations to medico-legal evidence,               45
+
+  Living and dying, the examination of,               18
+
+
+  Manner, the, of giving medical evidence,            30
+
+  Matter, the, to be given in medical evidence,       33
+
+  Medical certificates, when not to be given,         11
+
+  — evidence, the manner of giving,                   30
+
+  — — the matter to be given,                         33
+
+  Medico-legal report, the manner of,                 24
+
+  — — the matter of,                                  26
+
+
+  Neuromuscular action and sudden death,              49
+
+
+  _Post-mortem_ evidence, limitations of,             47
+
+  Precautions under suspicious circumstances,         52
+
+  Preparation of evidence,                            14
+
+  Preparing and giving evidence,                      10
+
+
+  Respiration preceding sudden death,                 48
+
+  Rules as to fees,                                   39
+
+  — of evidence, limitations imposed by,              45
+
+
+  Slow poisoning, if suspected, how to act,           52
+
+  Stepping stones of medical evidence,                57
+
+  Sudden death, vital activities preceding,           48
+
+  Suicide, threatened or attempted,                   54
+
+
+  To escape attending as witness,                     13
+
+
+  Vital activities preceding sudden death,            48
+
+
+  Witness, to escape attending as,                    13
+
+  Witnesses, classes of,                               8
+
+
+
+
+                 _Golden Rules of Medical Evidence._
+
+
+Every legally qualified and registered medical practitioner in actual
+practice in or near the place where the death in question happened,
+by the Coroners Act, 1887, may be summoned by the Coroner to give
+medical evidence as to the cause of that death. Thus medical men may
+be compelled to practise medical jurisprudence if called upon so to
+do. With the growth of knowledge and exact observation, the weight
+which is attached to medical evidence has increased proportionately.
+It is still true, however, that “the exercise of a sound judgment,
+which is of far more value in medico-legal matters than all the
+substance of all the ancient _medicina forensis_, must be our guide.”
+
+The =Coroner’s Court= differs from other tribunals in that,
+primarily, it conducts an enquiry to which there are no formal
+parties. The evidence received by this Court is on that account much
+less bound by technical rules.
+
+
+             CLASSES OF MEDICAL EVIDENCE AND WITNESSES.
+
+_The evidence of_
+
+=I. Common witnesses of Facts which they have observed.= They
+state the minor premiss of the forensic argument. Those who can
+describe technical matters which they have seen are _skilled common
+witnesses_: medical men usually appear in court as skilled witnesses.
+Job’s “I shall see for myself, and my own eyes shall behold, and not
+another,” indicates the correct attitude of a common witness of fact.
+
+
+_The testimony of_
+
+=II. Expert witnesses concerning their Opinions.= They state the
+major premiss of the syllogism, whose conclusion is found in
+the verdict of the jury. All expert witnesses should be skilled
+witnesses. Experts sometimes become common witnesses when examined
+as to exhibits produced in court. The weakness of expert testimony
+is, in practice, its _ex parte_ nature. Medical men called to give
+evidence as to fact, must beware of being unconsciously drawn into
+offering expert testimony.
+
+
+
+
+                  I. PREPARING AND GIVING EVIDENCE.
+
+
+                     =A. BEFORE ENTERING COURT.=
+
+Notify directly to the Coroner all deaths, the certificate of the
+cause of which you are unable to sign (persons found dead—whose death
+was caused or hastened by accident or injury—who have died without
+recent medical attendance—who, although attended by a registered
+medical practitioner during the last illness, have died in such a
+manner or at such a time, that the medical man is unable to assign a
+cause of natural death, or for some good reason declines to certify
+the cause).
+
+Most of the cases in which you give medical evidence are those in
+which you have declined to sign a certificate of the cause of death.
+
+There are also those cases in which the relatives object to your
+treatment, and those in which the registrar refers your certificate
+to the Coroner.
+
+The fact that the account for professional services rendered is
+likely to be unpaid is =not= a good reason for refusing to sign a
+death certificate.
+
+=Decline to give medical certificates= to police-constables or to
+solicitors’ clerks gratuitously, and without authority being shown.
+
+Demand a formal interview by appointment during professional hours
+with a responsible superior; otherwise you may receive no fees.
+
+Volunteer no private information, and express no opinion in public,
+concerning medico-legal causes with which you are not personally
+concerned; otherwise you may be _sub-pœna’d_ to support your views.
+If you know facts which will aid the execution of justice, give a
+=hint to the police= either yourself or by a medical friend.
+
+Give information _viva voce_ or in letters marked “private.” Never
+write an unofficial opinion. “Do right, and don’t write—then fear
+nothing.”
+
+Should you receive threatening letters, demanding blackmail, or
+otherwise without reasonable cause, at once put them into a good
+solicitor’s hands. “Let this action be a lesson for all men to stand
+boldly forward—to stand on their character—and not, by compromising
+a present difficulty, to accumulate imputations on their honour.”
+Associate yourself permanently with a Medical Defence Society.
+
+Unless in self-protection, or at the request of patients, do not
+appear in court without having been properly served with a formal
+_sub-pœna_.
+
+Do not fail to attend after receiving a formally served _sub-pœna_,
+on peril of contempt of court and an action for resulting damages
+on the part of the litigant calling you as a witness. You need not
+afford a _precis_ of your evidence. “He [or they] must be satisfied
+with impromptu answers.” When in doubt or difficulty, seek at once
+the best legal advice possible.
+
+
+                  TO ESCAPE ATTENDING AS A WITNESS:
+
+=In Coroners’ Courts.= Written certificates are usually accepted in
+Coroners’ Courts from members of hospital staffs and from general
+practitioners concerning the absence from ill-health of witnesses or
+jurymen; the nature of the illness need not be specified. In higher
+Courts personal attendance and evidence upon oath are necessary.
+
+=In Civil Courts.= If an appeal to the solicitor fails, you may
+state that your memory of the events in question is vague, and when
+prompted you may find that the facts as known to you are quite
+hostile to his client’s claim.
+
+You may decline to offer “=expert opinions=”—a direct interference
+with the facts and circumstances of the case alone =qualifies= you as
+a common skilled witness who is bound to give evidence if required so
+to do.
+
+
+                    THE PREPARATION OF EVIDENCE.
+
+“More mistakes are made, many more, by not looking than by not
+knowing.” You must be ready to meet an =exhaustive interrogation= in
+Court: hence it is essential that a careful clinical or _post-mortem_
+examination should be made, with the aid of all reasonable modern
+apparatus, and that what is known professionally concerning the
+matters in hand should be revised from modern text-books: your
+knowledge of pathology must be up-to-date. “You must know a thing
+before you suspect it, and you must suspect a thing before you find
+it.”
+
+=Remember= you are not a partisan: value accuracy of observation and
+of statement as you do your professional reputation.
+
+You must be prepared to =explain facts and conclusions clearly= to a
+body of laymen.
+
+=Beware= of mistaking a previously formed inference for a
+recollection of actual fact—assumed conclusions sometimes
+fallaciously suggest the real cause. “The chambermaid, in the
+background, made out as much of the letter as she could, and
+invented the rest; believing it all from that time forth as a
+positive piece of evidence.” _Stat pro ratione voluntas_ is a fallacy
+to be guarded against.
+
+Welcome, and even suggest, =conferences= which will avoid subsequent
+public differences in medical opinions.
+
+Decide what exhibits and sketches you will hand in. Label, initial,
+and number them. If they are returned to you after the trial,
+preserve them for possible future use (e.g., pathological specimens).
+
+Previous to the trial keep all notes and exhibits =under lock and
+key=.
+
+=Remember= medico-legal evidence is subject to certain
+=limitations=—your “facts” may be absolute, or probable, or merely
+possible (see p. 45).
+
+=Refresh the memory= from your clinical or other notes just before
+giving evidence rather than when in the witness box.
+
+Any =notes read in the witness box= are open to the inspection of the
+Court. They must have been made by you at the time of the event in
+question, or immediately thereafter.
+
+All clinical notes and personal memoranda should be destroyed upon
+the death of a medical practitioner, who should see that his Will
+contains such a direction.
+
+
+  MEDICO-LEGAL EXAMINATION OF THE LIVING, THE DYING, AND THE DEAD.
+
+“The best memory is a record =made at the time=.”
+
+=Make a note on the spot= as to the person examined, the place, the
+date, and hour of the commencement of the examination. Daylight
+should be chosen.
+
+If possible, choose a time such that you can complete the enquiry at
+one sitting, as it may be final.
+
+Where criminal charges may arise, =associate the police= (and, when
+necessary, the relieving officer) with the case at once. If called
+by a police-constable, do not fail to note down his number (from his
+collar).
+
+=Decline= to perform technical processes which are probably beyond
+your skill: thus the Coroner will usually secure the permission of
+the County Council for analyses in suspected poison cases.
+
+=Exclude lawyers and curious laymen=, but invite another medical man,
+especially if your own previous actions may be in question.
+
+Whatever you discover must be =kept secret= until you give evidence
+in court. As a matter of courtesy, the Coroner may be informed
+privately, before the inquest is held, of any unexpected or grave
+results; do not, however, inform press men.
+
+
+ MEDICAL EXAMINATION OF THE LIVING AND OF THE DYING, FOR THE PURPOSE
+                            OF EVIDENCE.
+
+All persons examined physically =must be informed= of, and =consent=
+to, the purpose and possible legal consequences.
+
+Never take directions from a third person (e.g., police, magistrate,
+employer).
+
+If a =further examination= may be necessary (e.g., under an
+anæsthetic), that fact should be stated.
+
+=Witnesses= should be present, especially in the case of the
+examination of females.
+
+=Do not send written certificates= to third persons as to the result
+of the examination, unless (1) In an open envelope, having read the
+certificate to the patient who takes it to its destination; (2) After
+having received the written consent of the patient so to do.
+
+The payment of the fee by a third person does not absolve from the
+rule of professional secrecy.
+
+The symptoms and =feelings of a patient= are sometimes admitted as
+(hearsay) testimony from a medical witness, especially where the
+former is dead. =Letters= from a patient to a medical man containing
+such statements are not allowed.
+
+A =confession= (which must be quite voluntary) or a =dying
+declaration= (from the lips of a victim of homicide convinced
+of impending death) made in the hearing of a medical man should
+be noted down at once, word for word, and, in the absence of a
+magistrate, signed by all persons present. Should death be imminent
+after a criminal assault (which includes abortion), the medical man
+should urge the victim to make such a dying declaration.
+
+If a patient is sent to gaol or an asylum, communicate at once, but
+privately, with the medical officer should you know of any =mental or
+physical abnormality=.
+
+
+                      EXAMINATION OF THE DEAD.
+
+=Do not order the removal= of a dead body; leave that duty to the
+police or to the Coroner’s officer.
+
+=Forbid=, however, any disturbance of a body to which you are called
+until you have seen it and the circumstances.
+
+1. Where the Coroner orders “evidence touching the external
+appearance of the body, and the cause of the death”:
+
+The body should be identified in your presence; if it cannot be
+identified, special care must be taken with the inspection. A
+photograph should be taken at once.
+
+The appearance of the corpse, both when clothed and when stripped,
+must be noted.
+
+In all cases the probable time of the death must be estimated.
+
+The presence and nature of parasites must be recorded.
+
+Should the cause of death still =remain obscure= after a complete
+inspection, the Coroner should be informed of the fact and requested
+to order an anatomical _post-mortem_ examination of the body.
+
+2. Where the Coroner orders a =full post-mortem examination=, thus:
+
+  “You are required to make or assist in making a _post-mortem_
+  examination of the body, which shall comprise an examination of
+  the viscera of the head, chest, and abdomen, and, if necessary, an
+  analysis of the contents of the stomach, and report thereon at the
+  said inquest.” As to the analysis, see the Home Office Circular
+  (Jan. 7, 1903).
+
+The body must not be opened until the Coroner’s order has been
+received; apart from inquests the =consent of relatives= must be
+secured before a body is dissected.
+
+Wherever manslaughter or murder is suspected, the Coroner will order
+a necropsy as a matter of course.
+
+If the deceased’s friends =charge you with negligence= in treatment,
+you must not conduct the examination.
+
+Do not commence =until the body is cold=; do not delay until marked
+putrefaction has set in.
+
+Have all necessary appliances at hand; having once started =do not
+leave the room= until your final note has been made and signed.
+
+Do not employ a hammer or a chisel.
+
+=Remember= that it is dangerous to attend lying-in women after making
+an autopsy.
+
+If the mortuary attendant does the manual work you must watch each
+step.
+
+If portions of organs are retained for subsequent examination, have
+the fact witnessed.
+
+
+                  DRAWING UP A MEDICO-LEGAL REPORT.
+
+In most cases the witness must recite the report in open court.
+
+For a complete investigation three sets of facts must be collated:
+
+1. The details of the environment of the corpse, when and where first
+seen.
+
+2. The personality and personal history of the deceased.
+
+3. The result of an exhaustive external and internal _post-mortem_
+examination.
+
+
+_a. The Manner of the Report_:
+
+Reports should be =short= and =distinct=; all unnecessary words
+should be omitted.
+
+The paragraphs should be numbered: this facilitates reference.
+
+Names and figures must be written plainly, and underlined.
+
+=Technical terms= should be used only if the report is intended for
+the use of a public authority; if used otherwise they should be
+explained.
+
+=Beware= of writing “There is no ...” when you intend to report “I
+can find no....”
+
+Exclude uncalled-for reasons, opinions, and comments.
+
+“Science is measurement.” Everything that can be, should be
+=measured=. Anatomical and chronological order and exactness should
+be aimed at.
+
+For immediate comparison, quote easily recognized English standards.
+
+“The _sometimes_ of the cautious is the _often_ of the sanguine, the
+_always_ of the empiric, the _never_ of the sceptic: but the numbers
+1, 10, 100, 1000 have but one meaning for all mankind.”
+
+In important cases the report should be type-written in duplicate and
+signed, one copy being handed to the Court.
+
+
+_b. The Matter of the Report_:
+
+The date and time of day of each examination, and the names of all
+persons present thereat, should be stated.
+
+There must be a very sharp division made between:
+
+(a) =Information= received and from whom—this is hearsay.
+
+“Never believe what a patient says another doctor said.”
+
+Never sign a certificate to oblige another practitioner, without
+personally examining the patient.
+
+(b) =Facts= found by personal examination or under personal
+supervision.
+
+The results of a complete methodical external (anterior and
+posterior) and internal investigation must be detailed; the condition
+of the =diseased organs= may be recorded first, the =healthy organs=
+being mentioned after, exhaustively.
+
+After entering all the pertinent facts, summarize the =main points=,
+and conclude with the =probable cause= of the pathological conditions
+found.
+
+=Sign= the report, affixing your medical qualifications and the
+date; secure the signature of other medical men who may be present.
+While in your care, keep the report under lock and key.
+
+Append any =sketches= or =photographs=, carefully numbered, which
+elucidate the case.
+
+Retain an identical copy of the report for reference.
+
+
+                         =B. WHEN IN COURT=,
+
+                        BEFORE BEING “SWORN.”
+
+All testimony given at this stage is null and void, and may render
+the speaker liable to an action for defamation. Do not omit to be
+“sworn” before speaking.
+
+Should you wish to object to giving evidence on the grounds:
+
+ _a._ That your fee (for expenses and loss of time) has not been paid
+ by the solicitor calling you.
+
+ _b._ That you are unwilling to pose as able to give “expert
+ opinions.”
+
+ _c._ That you may possibly incriminate yourself:—
+
+this is the stage at which you should say so.
+
+There is now complete emancipation from “the insanitary oath.” For
+the sake of public example you should decline to “kiss the Book”
+unless you have brought a Testament with you. Insist on your right
+either to affirm or to swear by the Scots method.[1]
+
+
+AFTER BEING “SWORN.”
+
+Whatever you say in giving evidence will not render you open to an
+action for slander.
+
+The privilege of a witness under examination is extended to a witness
+making statements to a solicitor preparing his “proof.”
+
+State your full name and address. Then say, “I am a registered
+medical practitioner”; your exact qualifications are immaterial.
+
+
+                      GIVING MEDICAL EVIDENCE.
+
+                       (_Cf. Reports, p. 24._)
+
+
+ “There is matter in manner.” “Tell the truth, and make the truth
+ tell.” “Be the plainest man in the world in the witness box.”
+ “All trifles are not trifling.” “Pathology creates the doctor, as
+ distinct from the nurse.”
+
+
+_The Manner._
+
+Listen to the =whole question= before you attempt to reply: then
+answer only what is asked. Make yourself understood.
+
+Don’t assume that the jury know all about the case.
+
+Speak audibly, slowly, deliberately, with an eye on the recording
+clerk’s pen.
+
+Say =exactly= what you mean.
+
+Cultivate the power of expression and of repression.
+
+Be candid, courteous, dignified, and withal good humoured; =avoid=
+appearing to be suspicious.
+
+Your =personal= disposition will count more with a jury than your
+professional position; they will note looks, doubts, hesitations,
+confidence, calmness, consideration, or precipitancy.
+
+Use =simple= and popular =terms=, otherwise you may be regarded as
+speaking “either oracles or jargon.” Reserve technicalities for
+cross-examination. The jury will think they understand “alcoholic
+disease of the ...,” “bad disorder,” “black and blue,” “black-eye,”
+“blood clot,” “blood poisoning,” “bowel,” “brain fever,” “bruise,”
+“buoyant lungs,” “cancer,” “consumptive spots,” “coverings of the
+brain,” “death stiffening,” “great vessel of the heart,” “gullet,”
+“gut,” “hardened liver,” “hardening of valves,” “inflammation or
+congestion of the ...,” “overloaded with fat,” “shrunken kidneys,”
+“skull-cap,” “stroke,” “swallow,” “sweet-bread,” “windpipes.”
+
+Don’t worry about the =technical rules= of evidence; in the Coroner’s
+Court they are seldom applied strictly.
+
+Insist on answering double-barrelled questions “=Yes= AND =No=” if
+necessary.
+
+Do not argue with Counsel; “disagree without being disagreeable.” “A
+large experience is not all experience,” and what you call “a rare
+case” may reflect upon your limited experience.
+
+An early “I =don’t= know” is better than a late “I =did not= know.”
+If you “don’t know,” do not be trapped into guessing. Beware of
+“argumentative figures.”
+
+
+_The Matter._
+
+If unable to decide as to the cause of death without a _post-mortem_
+examination, tell the jury so at once; the most experienced
+pathologist will do so the most often. Thus you may tell them, by
+way of apology, that any organ of the body may be ruptured without
+external signs of injury being apparent.
+
+Distinguish =what you have been told= from what you have found by
+personal examination.
+
+A knowledge of the facts differs from a knowledge of the records of
+those facts.
+
+State what you =knew professionally= as to the health and the habits
+of the deceased, but do not condescend to detail; it is sufficient to
+say, “I treated him,” or “I prescribed;” you need not specify =how=
+unless required so to do.
+
+Don’t offer any explanations unless directly asked; decline to give
+“expert opinion” testimony unless you feel fully competent so to do.
+
+The jury value evidence by the exactness of statement of, and the
+powers of observation evidenced by, a witness. Little benefit is
+gained by cross-examining one who is obviously telling the plain
+truth.
+
+Don’t exaggerate or estimate—“blessed are the pure in fact” in a law
+court; in measurements and descriptions be accurate, quoting figures
+where possible.
+
+You must answer =all questions= put to you, excepting such as would
+tend to incriminate yourself; before you answer such questions, the
+Coroner must warn you of the possible legal consequences if you
+answer.
+
+There are no medical secrets which may be kept between a patient
+and his medical adviser when they are probed in a court of law: if,
+however, you strongly object to answer, appeal to the President of
+the Court, or answer in writing.
+
+Think twice before adversely criticizing the actions of another
+medical man; remember, =symptoms and signs may alter= from day to day.
+
+You may not quote text-books of living authors, but you may say what
+authors support your view.
+
+If a text-book is quoted for or against you, =strictly verify= the
+text, the context, and the date of publication, before affirming or
+denying the quotation.
+
+After giving evidence, hand in the labelled and numbered =exhibits=
+which have been handed to you by the police or found by yourself.
+“Real evidence” is, however, capable of fallacious handling, e.g.,
+“Here’s the note! I made it at the time!”—but _did_ you?
+
+It may be wise to take an “anatomical” skull into court for
+illustration.
+
+The body of the Coroner’s officer is always available for ocular
+=demonstrations= to the jury of the sites of injuries, etc.
+
+If any important point has been omitted by the questions (e.g., of a
+non-medical Coroner), volunteer the undisclosed information which you
+possess.
+
+In conclusion, state the probable =cause of death=, especially
+assuring the jury if it was, in your opinion, natural; and if it
+could have been retarded by efficient medical advice.
+
+Beware of being didactic on non-medical matters; such action is a
+fruitful source of the “differences of doctors.”
+
+Before leaving the witness-box, =compliment= the conduct of the
+police or other persons who rendered worthy “first aid” to the
+deceased man.
+
+“The best brief is a copy of the depositions.” When criminal or civil
+proceedings are likely to follow an inquest, carefully read over
+and correct where necessary your depositions as taken down by the
+Coroner’s clerk; initial any alterations you make, then sign them as
+a correct record. Never sign any statement without having perused it
+previously.
+
+You can thus readily _identify the depositions_ later, when you may
+have to repeat your evidence in a higher Court where counsel will
+have scrutinized minutely not only the _facts stated_ but also the
+_facts as stated_: and so will be able to criticize keenly your
+second version.
+
+In criminal cases the Coroner will _bind over_ the medical witness by
+recognizance to appear at the trial and give evidence; usually such
+cases are taken first at the Assizes.
+
+
+FOOTNOTES:
+
+[1] Say “I solemnly, sincerely, and truly declare, and affirm, that
+I will tell the truth, the whole truth, and nothing but the truth”;
+_or_, raising the right hand, say: “I swear by Almighty God, as I
+shall answer to God at the last day of Judgment, I will tell the
+truth, the whole truth, and nothing but the truth.”
+
+
+
+
+                        II. RULES AS TO FEES.
+
+
+=No fee= can be claimed for merely =volunteered= information, given
+either in Court or previously.
+
+If you attend the Court after being _sub-pœna’d_, the fee is due,
+even should =no evidence= be called for.
+
+=Do not= sign a receipt before you have received the money.
+
+Apart from agreement to the contrary, an assistant or _locum tenens_
+must hand his fees to his principal.
+
+Where the authorities =compel attendance= in the public interest,
+definite fees are scheduled: if you appear on behalf of the prisoner,
+the plaintiff, or the defendant, a =private arrangement as to fees=
+(preferably in writing) must be made between the solicitor and
+yourself.
+
+
+                      =1. THE CORONER’S COURT.=
+
+There is =no fee= allowed for the =preliminary enquiry= and report to
+the Coroner; he can allow a fee only at an inquest.
+
+No fee will be paid for an unordered anatomical _post-mortem_
+examination.
+
+=Only one= medical witness is called by the Coroner; additional
+evidence may be ordered by the inquest jury.
+
+A second fee is =not allowed= for attendance at an adjournment.
+
+A _post-mortem_ examination must =not be conducted= by one accused on
+oath of negligently causing the death in question.
+
+No fee, for evidence or for _post-mortem_ examination, is payable
+to the medical officers (even if honorary) of voluntary medical
+institutions where the deceased died under the care of the officer;
+his attendance may, however, be excused if he sends a certificate as
+to the facts to the Court.
+
+_No fee allowed_: Lunatic Asylum; Public Hospital or Infirmary
+(including Cottage Hospitals).
+
+_Fee usually allowed_: Prison; Parochial Infirmary.
+
+Where the deceased was “brought in dead,” the usual fees may be
+claimed by medical officers of institutions.
+
+Travelling expenses seldom can be due to medical witnesses at
+inquests.
+
+In =criminal cases= the Treasury may send down recognized experts.
+
+_Fees_: For giving medical evidence after inspecting the body: ONE
+GUINEA.
+
+For giving evidence after performing a necropsy in accordance with
+the Coroner’s order (or upon direction of the majority of the jury):
+TWO GUINEAS.
+
+_Fine_: FIVE POUNDS is the penalty for disobeying the Coroner’s
+instructions.
+
+
+                     =2. CRIMINAL PROCEEDINGS.=
+
+
+ (_Vide_ Home Office Order as to allowances for professional evidence
+ in criminal prosecutions, 1903.)
+
+
+For common skilled witnesses in petty sessional and police courts, at
+quarter sessions, and at the assizes, certain maximum =allowances=
+are specified; it is left to the Clerk of the Court to decide the
+actual fee in each case.
+
+For =expert= testimony or highly skilled evidence the fee rests with
+the Court or the Treasury.
+
+For attending to give professional evidence =in the town= or place
+where the witness resides or practises: If the witness
+
+  1. Attends to give evidence in one case only, not more than =one
+  guinea= per diem, even if a disagreeable examination has been
+  necessary in order to qualify as a witness.
+
+  2. Gives evidence on the same day in two or more separate and
+  distinct cases, not more than =two guineas=.
+
+For attending =elsewhere= than in any town or place where the witness
+resides or practises, whether in one or more cases, not more than
+=two guineas= per diem. “Place” here means the area within a radius
+of three miles from the Court.
+
+No full-day allowance shall be paid unless the witness is necessarily
+detained away from his home for =at least four hours= for the purpose
+of giving evidence, otherwise he shall receive not more than one-half
+of the full-day allowance.
+
+The fare actually paid is usually allowed to a witness as travelling
+expenses.
+
+A medical witness, while staying within the precincts of the Court,
+may be ordered to assist with his professional services.
+
+In case of dispute, the Home Secretary, Whitehall, S.W., should be
+applied to forthwith.
+
+
+                         =3. CIVIL ACTIONS.=
+
+If your services are required by =one party= to a suit, it is for you
+to arrange terms; the solicitor is not himself liable. =A guinea=
+per diem usually is regarded as the minimum fee; travelling expenses
+(which should be paid in cash previous to the journey) are additional.
+
+You can =demand= payment (in Court) before you consent to be “sworn”
+as a witness; having been “sworn” you are bound to give your
+evidence.
+
+
+
+
+           III. SOME LIMITATIONS TO MEDICO-LEGAL EVIDENCE.
+
+
+                 =1. IMPOSED BY RULES OF EVIDENCE.=
+
+A medical witness, =as such=, cannot give evidence which will
+influence the Court to show
+
+ 1. That a woman is past the age for procreating and bearing children.
+
+ 2. That a child born nine months after lawful wedlock is
+ illegitimate.
+
+ 3. That, in the absence of eye-witnesses, a newly-born dead child was
+ live-born.
+
+ 4. That in a common disaster a certain person must have died last.
+
+ 5. That children under seven can commit an indictable offence.
+
+
+      =2. IMPOSED BY INADEQUACY AND UNCERTAINTY OF KNOWLEDGE.=
+
+ 1. The presence of gonorrhœa cannot be established by microscopical
+ evidence.
+
+ 2. A small mammalian blood-stain cannot be sworn to be “human.”
+
+ 3. In a case of sudden death you cannot state whether a bruise was
+ inflicted immediately before or immediately after the death.
+
+ 4. The sex of a very old or a very young skeleton cannot be
+ determined.
+
+ 5. The age of a skeleton, after complete ossification, is guess-work.
+
+ 6. Death cannot be affirmed until putrefaction sets in.
+
+ 7. Pregnancy must not be asserted until quickening has been felt, or
+ the fœtal parts are palpable.
+
+ 8. Affiliation to putative parent from personal resemblance is
+ insufficient.
+
+
+   =3. CASES WHERE A POST-MORTEM EXAMINATION IS NECESSARY TO TEST.=
+
+ 1. _Alleged Drowning_: otherwise in the absence of eye-witnesses
+ of the fatality, “found dead in the water” is the only logical
+ conclusion.
+
+ 2. _Alleged Overlaying_: otherwise “found dead in bed with the
+ parents” should be the “open verdict.”
+
+ In 1 and 2, cardio-respiratory diseases must be noted.
+
+ 3. _Alleged Still-birth_: for although live-birth cannot thereby be
+ proved in the absence of direct eye-witnesses, the lungs may have
+ functioned.
+
+ 4. Anatomical _post-mortem_ examinations should be performed wherever
+ possible in medico-legal cases; they are essential in alleged
+ criminal homicide.
+
+
+
+
+IV. VITAL ACTIVITIES WHICH MAY HAVE IMMEDIATELY PRECEDED SUDDEN DEATH,
+
+ 1. _Respiration_: Soot or froth may be in the mouth, trachea, or
+ nostrils.
+
+ 2. _Deglutition and Peristalsis_: Local water or blood may have been
+ swallowed; food may be in the stomach (e.g., of the newly-born);
+ vomit or fæces may have been voided; salivation may have been
+ profuse.
+
+ 3. _Blood-Circulation_: Much blood may have been lost, possibly
+ having “spurted” (e.g., in the newly-born); the heart and vessels may
+ be empty; there may be true extravasation into or hyperæmia of the
+ tissues (a microscope will reveal reaction to an irritant); the veins
+ may be swollen on the distal side of a ligature; the blood may give
+ spectroscopic tests for poisonings.
+
+ 4. _Neuromuscular_: Articles may be clutched e.g., weapons, grass (“a
+ drowning man catches at a straw”), hair, mud; _cutis anserina_ may be
+ present; _emissio seminis_ or abortion may have occurred; the eyelids
+ are usually open at death; children are usually born with the eyelids
+ sealed.
+
+
+
+
+                        V. HEARSAY TESTIMONY:
+
+    MEDICO-LEGAL EXCEPTIONS TO THE GENERAL RULE WHICH FORBIDS THE
+               RECEPTION IN COURTS OF SUCH TESTIMONY.
+
+
+ 1. The rule is not strictly observed in the Coroner’s Court, wherein
+ an enquiry, and not a trial between parties, is held.
+
+ 2. Formally recorded dying declarations; the medical adviser often
+ hears “the last whisper of life.”
+
+ 3. Spontaneous and voluntary confessions are sometimes made to
+ medical men.
+
+ 4. Where the statement in question was part of the proceedings under
+ investigation, thus:
+
+ _a._ The complaints and natural expressions of a patient as to what
+ he feels: his words aid in deciding the course of treatment.
+
+ _b._ The natural expressions of a frightened person, who has not
+ had time to concoct a lie: thus after personal injuries, indecent
+ assault, or rape.
+
+
+
+
+   VI. PRECAUTIONS TO BE OBSERVED UNDER SUSPICIOUS CIRCUMSTANCES;
+
+WHICH MAY TERMINATE IN THE CORONER’S COURT, AND NEED MEDICAL EVIDENCE.
+
+
+The primary duty of a medical man is to treat every patient _as a
+patient_.
+
+
+=1. Chronic or slow poisoning= (including alcoholic).
+
+_Cautions._ Try all possible preventive means before announcing the
+suspicion; do not move until your ground is quite sure: otherwise an
+action for defamation of character may result.
+
+The family medical man must not be misled by the suspicions of
+weak-minded or alcoholic patients; he must exclude every possibility
+of an accidental origin of the symptoms. He should know the several
+personalities of his patient’s families.
+
+The symptoms may appear during medical treatment: poison being
+substituted as “a lingering dram.”
+
+If convinced, by repeated examination of the patient’s food and
+excreta, by his symptoms, and by the conduct of the suspected person,
+that the influence of poison is at work, let it be understood by
+the patient’s friends that you are not satisfied with the progress
+made: suggest the possibility of an accidental poisoning. Do not, at
+present, associate any name as the culprit; suggest a consultation
+with a medical friend.
+
+Have the patient placed under the constant care of day and night
+nurses, who, although being instructed to administer personally all
+food and medicine, need not know at first your suspicions. If the
+line of defence is circumvented, or is impossible, have the victim
+removed to a nursing home, or to a hospital.
+
+Your suspicions, without mentioning any name, should be told _viva
+voce_ to the relatives of the poisoned person, to his solicitor,
+or to the suspect himself. If this course is futile, the name can
+be introduced in the information given to these persons, to the
+patient himself, or, finally, to a magistrate, or to the police.
+Should the victim die, the Coroner should be asked to order an expert
+toxicological examination of the body of the deceased.
+
+
+=2. Threatened suicide.=
+
+“There is a rule of life far higher than professional etiquette—a
+duty that every right-minded man owes his neighbour—to prevent the
+destruction of human life.”
+
+“Sign an urgency certificate, so that the patient can be detained
+in his own house legally. Any step which is taken, which is in good
+faith, with the intention of certifying, is justified, and is covered
+by the law.”
+
+
+=Attempted suicide.=
+
+Special care must be taken to prevent a further attempt by constant
+unobserved watching. Delirious, melancholic, suicidal, and mentally
+defective patients are preferably placed on the ground floor.
+
+
+3. Where a patient dies suddenly from a cause which is obviously not
+the one under treatment—as when anæsthetized, or after an operation.
+
+Enumerate to the friends the possible explanations of the fatal
+issue. Affirm that there is no reason to have expected any one of
+them, and that all the usual precautions had been taken.
+
+Report to the Coroner, or advise, where such report is considered
+unnecessary, that an anatomical _post-mortem_ examination should be
+conducted for the satisfaction of all parties concerned.
+
+
+
+
+           VII. SOME STEPPING-STONES OF MEDICAL EVIDENCE.
+
+
+ 1200 Pledge to answer truly appears.
+
+ 1215 Trial by Ordeal abolished.
+
+ 1275 The Coroner’s Ordinance. The inquest jury were the witnesses
+       also; inspection of external appearances was alone necessary
+       for the jury’s _post-mortem_ examination.
+
+ 1290 The Court, after being advised by physicians, direct the jury
+       as to the legitimacy of a posthumous child.
+
+ 1345 The Sheriff is directed to summon the foremost London medical
+       men to consider the severity of a recently inflicted wound.
+
+ 1354 A charge of surgical malpraxis narrated in the City Records.
+
+ 1450 Common witnesses are summoned to appear before the jury.
+
+ 1506 Dispute as to the province of the Court or the surgeon to
+       decide upon the severity of a wound.
+
+      Anatomical _post-mortem_ examinations occur, though pathology is
+       primitive. “Searchers.”
+
+ 1542 Thomas Vicary advises the Lord Mayor in a case of battery.
+
+ 1562 Witnesses summoned _sub-pœna_.
+
+ 1575 Ambrose Paré publishes typical “medico-legal reports.”
+
+ 1632 College of Physicians report in full on a corrosive poisoning
+       case.
+
+ 1665 Sir Thomas Browne affirmed in Court his belief in witches.
+
+ 1699 Baron Hatsell objects to Dr. Crell quoting “Ambros Parey’s”
+       opinions.
+
+ 1723 Mr. Justice Tracey enunciates “the wild beast” theory of
+       responsibility in lunacy cases.
+
+ 1767 _Slater_ v. _Baker & Stapleton_—a case of surgical malpraxis;
+       damages £500.
+
+ 1781 John Hunter gives expert evidence in an alleged poisoning case:
+       “I can give nothing definite.”
+
+ 1788 Samuel Farr’s _Elements of Medical Jurisprudence_.
+
+ 1795 Matthew Baillie exposes the fallacy of “Death from polyp of the
+       heart.”
+
+ 1807 Chair of Medical Jurisprudence established in Edinburgh.
+
+ 1823 Last “cross-road” burial of suicides in England.
+
+ 1827 Orfila doubts detection of blood-stain with the microscope.
+
+ 1830 The first Medical Coroner elected. “A medical Crowner’s a queer
+       sort of thing.”
+
+ 1831 Sir Thos. Watson lectures at King’s College Hospital, and
+       Swaine Taylor at Guy’s.
+
+ 1832 The Anatomy Act, after Burke and Hare scandals. “Burke Hare
+       too!”
+
+ 1836 Registration of “the cause of death” introduced.
+
+      Sir Dominic Corrigan’s clause as to fact of death: “As I am
+       informed” (1874).
+
+ 1837 The Medical Witnesses Remuneration Act allows fees for medical
+       evidence at inquests; inquests and autopsies increase,
+       pathology advances.
+
+ 1843 Swaine Taylor’s _Manual of Medical Jurisprudence (Principles
+       and Practice, 1865)_.
+
+      Rules as to the test of criminal responsibility of the insane
+       (McNaughten’s case).
+
+ 1844 Rudolph Virchow’s _Die Sections-Tecknik_ commenced.
+
+ 1845 Telegraph first used for arrest of a prisoner (Tawell).
+
+ 1846 Anæsthetics introduced. “Gentlemen! Here is no humbug!”
+
+ 1848 The first Public Health Act.
+
+ 1851 Stas devises his process to detect poisoning by alkaloids
+       (nicotine).
+
+ 1857 Lord Chief Justice Cockburn discredits microscopical evidence.
+
+ 1858 “Railway shock” appears.
+
+      The Medical Act registers medical practitioners.
+
+ 1862 Hoppe-Seyler suggests medico-legal use of the spectroscope
+       (Muller’s case, 1864).
+
+ 1863 Photography applied to surgery. (1871, criminals photographed).
+
+ 1864 Listerism introduced.
+
+ 1868 Crown Office (Scotland) memorandum for medico-legal examination
+       of dead bodies (revised 1897).
+
+ 1883 Bertillonage employed (France).
+
+ 1879 The first Inebriates Act.
+
+ 1886 The triple qualification necessary.
+
+ 1887 Retford ptomaine poisoning.
+
+ 1888 Witnesses emancipated from “kissing the Book.”
+
+ 1893 Phonograph heard in the Chancery Division.
+
+      Report on Death Certification.
+
+ 1896 Skiagram of ankle produced in an action for damages.
+
+ 1897 Finger-print records recognized (India).
+
+ 1897 Cinematograph used in Medicine.
+
+ 1901 Medico-Legal Society founded.
+
+ 1902 A “thumb-print” accepted at the Old Bailey.
+
+                 J. WRIGHT & CO., PRINTERS, BRISTOL.
+
+
+
+
+                       “GOLDEN RULES” SERIES.
+
+_Waistcoat Pocket Size, Cloth_, =1s.= _each._
+
+
+                         =I.= _9th Edition._
+
+GOLDEN RULES OF SURGICAL PRACTICE. By E. HURRY FENWICK, F.R.C.S.
+
+
+                        =II.= _5th Edition._
+
+GOLDEN RULES OF GYNÆCOLOGY. By S. JERVOIS AARONS, M.D.
+
+
+                        =III.= _5th Edition._
+
+GOLDEN RULES OF OBSTETRIC PRACTICE. By W. E. FOTHERGILL, M.A., B.Sc.,
+M.D.
+
+
+        =IV.= _7th Edition. Enlarged & Entirely Re-written._
+
+GOLDEN RULES OF MEDICAL PRACTICE. By LEWIS SMITH, M.D., M.R.C.S.
+
+
+                         =V.= _4th Edition._
+
+GOLDEN RULES OF PSYCHIATRY. By JAMES SHAW, M.D.
+
+
+                        =VI.= _3rd Edition._
+
+GOLDEN RULES OF PHYSIOLOGY. By I. WALKER HALL, M.B., Ch.B.
+(Vict.), and J. ACWORTH MENZIES, M.D., C.M. (Edin.).
+
+
+                        =VII.= _4th Edition._
+
+GOLDEN RULES OF OPHTHALMIC PRACTICE. By GUSTAVUS HARTRIDGE, F.R.C.S.
+
+                       =VIII.= _3rd Edition._
+
+GOLDEN RULES OF SKIN PRACTICE. By DAVID WALSH, M.D. Edin.
+
+
+                        =IX.= _3rd Edition._
+
+GOLDEN RULES OF AURAL AND NASAL PRACTICE. By PHILIP R. W. DE SANTI,
+F.R.C.S.
+
+
+                         =X.= _2nd Edition._
+
+GOLDEN RULES OF HYGIENE. By F. J. WALDO, M.A., M.D. (Cantab.), D.P.H.
+
+
+                                =XI.=
+
+           _3rd Edition. Enlarged, Double Number_, =2/-=.
+
+GOLDEN RULES FOR DISEASES OF CHILDREN. By GEORGE CARPENTER, M.D.
+(Lond.), M.R.C.P.
+
+
+                        =XII.= _2nd Edition._
+
+GOLDEN RULES OF REFRACTION. By ERNEST E. MADDOX, M.D., F.R.C.S.
+(Edin.).
+
+
+                       =XIII.= _2nd Edition._
+
+GOLDEN RULES OF DENTAL SURGERY. By CHAS. W. GLASSINGTON, M.R.C.S.,
+L.D.S. (Edin.).
+
+
+                        =XIV.= _2nd Edition._
+
+GOLDEN RULES OF ANÆSTHESIA. By R. J. PROBYN WILLIAMS, M.D.
+
+
+                        =XV.= _2nd Edition._
+
+GOLDEN RULES OF SICK NURSING. By W. B. DRUMMOND, M.B., C.M.,
+F.R.C.P. (Edin.).
+
+               _J. Wright & Co., Publishers, Bristol._
+
+
+
+
+  Transcriber’s Notes
+
+  pg 47 Added period after NECESSARY TO TEST
+
+*** END OF THE PROJECT GUTENBERG EBOOK GOLDEN RULES OF MEDICAL
+EVIDENCE ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that:
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
+
+This website includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
